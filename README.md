@@ -2,7 +2,8 @@
 
 ## ✅ Fully typed language is life ✅
 
-### 🔦 Take a look at my skills 🔦
+## 🔦 Take a look at my skills 🔦
+
 
 ### Go to develop? `📚 Libraries/Language 📚`
 
@@ -14,14 +15,18 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
+
 ### Test time? `🔎 Testing 🔎`
 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
+
 ### Deployng application `⬆️ Automation CI/CD ⬆️`
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 
 #### Are you looking for solution? Contact-me.
 
