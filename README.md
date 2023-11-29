@@ -1,43 +1,66 @@
-# Open the doors i'm coming on
+<!-- Header Section -->
+# Hi there! 👋 I'm Michael silva
 
-## Hey there! How are you? 
+Passionate about building robust software and creating seamless user experiences. Welcome to my GitHub playground! 🚀
 
-## ✅ Fully typed language is life ✅
+<!-- Skills Bucket -->
+## 🔧 Technologies & Tools
 
-## 🔦 Take a look at my skills 🔦
+<div align="center">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/CI/CD-0170FE?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD"/>
+    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+    <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white" alt="JUnit"/>
+</div>
 
+<!-- Projects Bucket -->
+## 🚀 Projects
 
-### Go to develop? `📚 Libraries/Language and Frameworks 📚`
+Here are some of the projects I've been working on:
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+1. [**Live Chat**](https://github.com/JubaDeveloper/live-chat.git) - Chat that allow users to communicate between themselves.
+2. [**Shopping Site**](https://github.com/JubaDeveloper/shopping-site-pb.git) - Shopping Site applying the core technologies concepts achieved.
+3. [**Employee Manager**](https://github.com/JubaDeveloper/Employee-Management.git) - Created to manager employees (concepts of crud operations).
 
-### Test time? `🔎 Testing 🔎`
+Feel free to explore more in my repositories!
 
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+<!-- Learning Bucket -->
+## 🌱 Currently Learning
 
+I'm currently diving deeper into [Spring Boot], aiming to enhance my skills and explore new horizons.
 
-### Deployng application `⬆️ Automation CI/CD ⬆️`
+<!-- Connect with Me Bucket -->
+## 📫 Connect with Me
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+Let's connect and discuss code, tech, or anything under the sun!
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/michael-matos-da-silva-42a0b821b)
 
-#### Are you looking for solution? Contact-me.
+<!-- Collaboration Bucket -->
+## 🤝 Open to Collaboration
 
-- Contact:
-  - 📧 Email: `michaelres3344@gmail.com`
-  - Workana: `JubaDev`
+I'm always open to collaborating on exciting projects. If you have an idea or need help with something, feel free to reach out!
 
-### Every day I look for new technologies to improve my performance and deliver the best solutions in a short time
+<!-- GitHub Stats Bucket -->
+## 📈 GitHub Stats
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jubadeveloper&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Support Bucket -->
+## ☕️ Support My Work
+
+If you find my work interesting or helpful, consider supporting it by [buying me a coffee](Your Buy Me a Coffee Link) ☕️.
+
+Thanks for stopping by! ✨
+
 
 <picture>
   <source
