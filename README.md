@@ -42,7 +42,7 @@ I'm currently diving deeper into [Spring Boot], aiming to enhance my skills and 
 
 Let's connect and discuss code, tech, or anything under the sun!
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/michael-matos-da-silva-42a0b821b)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-matos-da-silva-42a0b821b)
 
 <!-- Collaboration Bucket -->
 ## 🤝 Open to Collaboration
