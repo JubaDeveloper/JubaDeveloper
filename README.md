@@ -57,7 +57,7 @@ I'm always open to collaborating on exciting projects. If you have an idea or ne
 <!-- Support Bucket -->
 ## ☕️ Support My Work
 
-If you find my work interesting or helpful, consider supporting it by [buying me a coffee](Your Buy Me a Coffee Link) ☕️.
+If you find my work interesting or helpful, consider supporting it by ☕️.
 
 Thanks for stopping by! ✨
 
